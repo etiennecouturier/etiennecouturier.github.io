@@ -1,3 +1,3 @@
 <plugins>
-  <plugin id="lu.foyer.cqrs" url="https://etiennecouturier.github.io/cqrs-plugin.zip" version="2.0"/>
+  <plugin id="lu.foyer.cqrs" url="https://etiennecouturier.github.io/cqrs-plugin.zip" version="3.0"/>
 </plugins>
